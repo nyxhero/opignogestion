@@ -1,0 +1,12 @@
+name = Opigno SCORM API
+description = SCORM API for Opigno
+core = 7.x
+package = Opigno
+
+files[] = includes/XML2Array.php
+; Information added by Drupal.org packaging script on 2016-07-08
+version = "7.x-1.16"
+core = "7.x"
+project = "opigno"
+datestamp = "1467963241"
+

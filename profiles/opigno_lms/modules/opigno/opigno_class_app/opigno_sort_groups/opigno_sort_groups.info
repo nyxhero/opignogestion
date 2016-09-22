@@ -1,0 +1,14 @@
+name = Opigno Sort groups
+description = Opigno Sort groups
+core = 7.x
+package = Opigno Apps
+
+dependencies[] = opigno
+dependencies[] = opigno_class_app
+
+; Information added by Drupal.org packaging script on 2016-05-06
+version = "7.x-1.4"
+core = "7.x"
+project = "opigno_class_app"
+datestamp = "1462547049"
+
