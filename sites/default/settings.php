@@ -249,10 +249,18 @@ $databases = array (
   array (
     'default' => 
     array (
-      'database' => 'opigno',
+      /*'database' => 'opigno',
       'username' => 'root',
       'password' => '',
       'host' => 'localhost',
+      'port' => '',
+      'driver' => 'mysql',
+      'prefix' => '',*/
+
+      'database' => 'db_a1112c_gestion',
+      'username' => 'a1112c_gestion',
+      'password' => 'Cachorro26',
+      'host' => 'MYSQL5017.myASP.NET',
       'port' => '',
       'driver' => 'mysql',
       'prefix' => '',
